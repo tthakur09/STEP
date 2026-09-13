@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/STEP.iml" filepath="$PROJECT_DIR$/STEP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/w1 assignment/w1 assignment.iml" filepath="$PROJECT_DIR$/week 1/w1 assignment/w1 assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/w1 practice/w1 practice.iml" filepath="$PROJECT_DIR$/week 1/w1 practice/w1 practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 2/w2 assignment/w2 assignment.iml" filepath="$PROJECT_DIR$/week 2/w2 assignment/w2 assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 2/w2 practice/w2 practice.iml" filepath="$PROJECT_DIR$/week 2/w2 practice/w2 practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/week 1.iml" filepath="$PROJECT_DIR$/week 1/week 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 2/week 2.iml" filepath="$PROJECT_DIR$/week 2/week 2.iml" />
+    </modules>
+  </component>
+</project>
