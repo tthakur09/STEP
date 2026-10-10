@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class q6 {
+public class q4{
     public static int[] attendanceSummary(int[] days) {
         int presentCount = 0;
         int currentStreak = 0;
